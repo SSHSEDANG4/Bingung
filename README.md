@@ -2,10 +2,10 @@
 - By  : SSH SEDANG NETWORK <br>
 - For : This autoscript can be used by Debian 10/Ubuntu 20.04 (LTS)_
 
-### Contact Admin
+### Contact Admin :
 * Telegram ：https://t.me/sshsedang or https://wa.me/6282311190332
 
-### Info
+### Info          :
 
 |        SERVICE          |      PORT      |
 |-------------------------|----------------|
