@@ -1,8 +1,9 @@
 # Autoscript VPS v.1
-## _SSH SEDANG NETWORK, This autoscript can be used by Debian 10/Ubuntu 20.04 (LTS)_
+## By  : _SSH SEDANG NETWORK
+## For : This autoscript can be used by Debian 10/Ubuntu 20.04 (LTS)_
 
 ### Contact admin
-* Telegram ：https://t.me/sshsedang or wa.me/6282311190332
+* Telegram ：https://t.me/sshsedang or https://wa.me/6282311190332
 
 |        SERVICE          |      PORT      |
 |-------------------------|----------------|
