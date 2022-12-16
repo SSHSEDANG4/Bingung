@@ -1,5 +1,5 @@
 #!/bin/sh
-GIT_CMD="https://github.com/SSHSEDANG4/script_ssn_v1/main/"
+GIT_CMD="https://github.com/SSHSEDANG4/Bingung/raw/main/"
 ns_domain_cloudflare() {
 	DOMAIN="slowdns.app"
 	DAOMIN=$(cat /etc/xray/domain)
